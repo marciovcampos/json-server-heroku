@@ -5,70 +5,80 @@
             "numero": "50",
             "partido": "PSOL",
             "nome": "Guilherme Boulos",
-            "foto": "https://s3.amazonaws.com/storagevotocerto/candidatos/guilherme_boulos.jpg"
+            "foto": "https://s3.amazonaws.com/storagevotocerto/candidatos/guilherme_boulos.jpg",
+            "descricao": "Guilherme Castro Boulos é um ativista, político e escritor brasileiro filiado ao Partido Socialismo e Liberdade. É membro da Coordenação Nacional do Movimento dos Trabalhadores Sem Teto."
         },
         {
             "id": "2",
             "numero": "16",
             "partido": "PSTU",
             "nome": "Vera Lúcia",
-            "foto": "https://s3.amazonaws.com/storagevotocerto/candidatos/vera_lucia.jpg"
+            "foto": "https://s3.amazonaws.com/storagevotocerto/candidatos/vera_lucia.jpg",
+            "descricao": "Vera Lucia, formada em Ciências Sociais, foi operária da indústria de calçados, saiu do PT em 1992, quando uma ala do partido foi expulsa por defender o impeachment de Fernando Collor. "
         },
         {
             "id": "3",
             "numero": "13",
             "partido": "PT",
             "nome": "Fernando Haddad",
-            "foto": "https://s3.amazonaws.com/storagevotocerto/candidatos/fernando_haddad.jpg"
+            "foto": "https://s3.amazonaws.com/storagevotocerto/candidatos/fernando_haddad.jpg",
+            "descricao": "Fernando Haddad é um acadêmico e político brasileiro, filiado ao Partido dos Trabalhadores. Foi prefeito da cidade de São Paulo entre 2013 e 2016."
         },
         {
             "id": "4",
             "numero": "12",
             "partido": "PDT",
             "nome": "Ciro Gomes",
-            "foto": "https://s3.amazonaws.com/storagevotocerto/candidatos/ciro_gomes.jpg"
+            "foto": "https://s3.amazonaws.com/storagevotocerto/candidatos/ciro_gomes.jpg",
+            "descricao": "Ciro Ferreira Gomes é um político, advogado e professor universitário brasileiro filiado ao Partido Democrático Trabalhista, do qual é vice-presidente. Ocupou altos cargos políticos no país."
         },
         {
             "id": "5",
             "numero": "18",
             "partido": "REDE",
             "nome": "Marina Silva",
-            "foto": "https://s3.amazonaws.com/storagevotocerto/candidatos/marina_silva.jpg"
+            "foto": "https://s3.amazonaws.com/storagevotocerto/candidatos/marina_silva.jpg",
+            "descricao": "Maria Osmarina da Silva Vaz de Lima, nascida Maria Osmarina da Silva é uma historiadora, professora, psicopedagoga, ambientalista e política brasileira filiada à Rede Sustentabilidade."
         },
         {
             "id": "6",
             "numero": "19",
             "partido": "PODEMOS",
             "nome": "Alvaro Dias",
-            "foto": "https://s3.amazonaws.com/storagevotocerto/candidatos/alvaro_dias.jpg"
+            "foto": "https://s3.amazonaws.com/storagevotocerto/candidatos/alvaro_dias.jpg",
+            "descricao": "Alvaro Fernandes Dias é um historiador, professor e político brasileiro. Filiado ao Podemos, exerce atualmente o cargo de Senador da República Federativa do Brasil, representando o Estado do Paraná."
         },
         {
             "id": "7",
             "numero": "15",
             "partido": "MDB",
             "nome": "Henrique Meirelles",
-            "foto": "https://s3.amazonaws.com/storagevotocerto/candidatos/henrique_meirelles.jpg"
+            "foto": "https://s3.amazonaws.com/storagevotocerto/candidatos/henrique_meirelles.jpg",
+            "descricao": "Henrique de Campos Meirelles é um executivo da área financeira, político e ex-Ministro da Fazenda do Brasil."
         },
         {
             "id": "8",
             "numero": "45",
             "partido": "PSDB",
             "nome": "Geraldo Alckmin",
-            "foto": "https://s3.amazonaws.com/storagevotocerto/candidatos/geraldo_alckmin.jpg"
+            "foto": "https://s3.amazonaws.com/storagevotocerto/candidatos/geraldo_alckmin.jpg",
+            "descricao": "Geraldo José Rodrigues Alckmin Filho é um médico, e político brasileiro, filiado ao Partido da Social Democracia Brasileira."
         },
         {
             "id": "9",
             "numero": "30",
             "partido": "NOVO",
             "nome": "João Amoedo",
-            "foto": "https://s3.amazonaws.com/storagevotocerto/candidatos/joao_amoedo.jpg"
+            "foto": "https://s3.amazonaws.com/storagevotocerto/candidatos/joao_amoedo.jpg",
+            "descricao": "João Dionisio Filgueira Barreto Amoêdo, mais conhecido como João Amoêdo, é um banqueiro, político, engenheiro e administrador de empresas brasileiro."
         },
         {
             "id": "10",
             "numero": "17",
             "partido": "PSL",
             "nome": "Jair Bolsonaro",
-            "foto": "https://s3.amazonaws.com/storagevotocerto/candidatos/jair_bolsonaro.jpg"
+            "foto": "https://s3.amazonaws.com/storagevotocerto/candidatos/jair_bolsonaro.jpg",
+            "descricao": "Jair Messias Bolsonaro é um militar da reserva e político brasileiro. Cumpre atualmente o seu sétimo mandato na Câmara dos Deputados do Brasil, eleito pelo Partido Progressista. "
         }
     ],
     "Perguntas": [
@@ -78,7 +88,8 @@
             "titulo": "Reforma Trabalhista",
             "pergunta": "Você concorda com as alterações realizadas na CLT e defende que a terceirização possa ocorrer em todas as atividades das empresas (Reforma Trabalhista)?",
             "descricao": "Recentemente o Congresso Nacional aprovou mudanças na Consolidação das Leis Trabalhistas (CLT) que incluíram, entre outras, ampliação das possibilidades de terceirização para a atividade-fim da empresa, flexibilização dos horários de trabalhos, ampliação das possibilidades de contratos com tempo determinado e fim do imposto sindical.",
-            "resposta": "0"
+            "resposta": "0",
+            "afinidade": "0"
         },
         {
             "id": "2",
@@ -86,7 +97,8 @@
             "titulo": "Reforma da Previdência",
             "pergunta": "Os trabalhadores devem contribuir mais tempo do que contribuem hoje para se aposentar (Reforma da Previdência)?",
             "descricao": "A solução apresentada com mais frequência para solucionar a questão da previdência é o aumento do tempo de contribuição dos trabalhadores na ativa. Outras seriam a mudança do regime previdenciário ou a redução dos montantes recebidos após estes se aposentarem.",
-            "resposta": "0"
+            "resposta": "0",
+            "afinidade": "0"
         },
         {
             "id": "3",
@@ -94,7 +106,8 @@
             "titulo": "PEC do Teto",
             "pergunta": "Você defende o congelamento dos gastos com investimentos e serviços públicos por 20 anos (PEC do Teto)?",
             "descricao": "O Novo Regime Fiscal, instituído em 2016, e apelidado de PEC do Teto, tornou mais rígidas as regras para os gastos públicos da União, limitando-os ao do ano de 2018 mais correção inflacionária do período. Os defensores da mudança alegam que ela é essencial para evitar o aumento do déficit público. Os críticos dizem, sem negar o déficit, que haverá precarização dos serviços e que há soluções socialmente mais justas para enfrentar o problema.",
-            "resposta": "0"
+            "resposta": "0",
+            "afinidade": "0"
         },
         {
             "id": "4",
@@ -102,7 +115,8 @@
             "titulo": "Tributação Progressiva",
             "pergunta": "A tributação deve se tornar progressiva, começando a cobrar impostos dos lucros de acionistas e das grandes heranças?",
             "descricao": "Progressividade, no contexto de arrecadação de impostos, é a capacidade de taxar em maior proporção os que possuem maior renda. É consenso que os impostos no Brasil são regressivos, extraindo uma parcela maior da renda dos que menos a possuem. Duas das propostas para eliminar essa distorção são a taxação de dividendos (lucros de acionistas) e de grandes heranças.",
-            "resposta": "0"
+            "resposta": "0",
+            "afinidade": "0"
         },
         {
             "id": "5",
@@ -110,7 +124,8 @@
             "titulo": "Desenvolvimentismo",
             "pergunta": "O Estado deve ser empreendedor e investir ativamente na economia (desenvolvimentismo)?",
             "descricao": "Existem diversas correntes econômicas que pensam sobre o papel do Estado no fomento da economia nacional. Uma das correntes mais fortes do pensamento econômico brasileiro durante o século XX, com reflexos nos dias atuais, é o desenvolvimentismo. Esta corrente propõe que o Estado tenha um papel ativo de empreendedor na economia, escolhendo os setores nos quais os investimentos públicos devem ser realizados. Por exemplo, possuindo empresas — as estatais — e ser monopolistas em certas áreas.",
-            "resposta": "0"
+            "resposta": "0",
+            "afinidade": "0"
         },
         {
             "id": "6",
@@ -118,7 +133,8 @@
             "titulo": "Prioridade ao controle de gastos",
             "pergunta": "O ajuste fiscal deve ser a principal prioridade do governo federal?",
             "descricao": "Correntes econômicas advertem que o descontrole fiscal pode ter diversos efeitos adversos em um país, como perda da capacidade de governo ou inflação alta. Para evitar estas consequências, advogam que o governo deve acabar com os déficits na forma de um ajuste fiscal. Outras correntes econômicas defendem que a finalidade do ajuste é apenas garantir retorno aos credores. Existem ainda correntes que defendem que o Estado deve usar o endividamento como ferramenta para alavancar a economia.",
-            "resposta": "0"
+            "resposta": "0",
+            "afinidade": "0"
         },
         {
             "id": "7",
@@ -126,7 +142,8 @@
             "titulo": "Preços do combustível",
             "pergunta": "Você defende que os preços dos combustíveis no Brasil continuem flutuando segundo as variações do mercado internacional de petróleo?",
             "descricao": "A controvérsia entre os preços seguirem cotações internacionais ou serem controlados internamente no país advém do poder monopolista da Petrobrás, que concentra o refino no Brasil. Os que defendem a marcação de preços internacionais advertem que apenas assim haverá possibilidade de que outras empresas, nacionais ou não, possam também refinar combustíveis aqui ou os importem, permitindo a concorrência. Os contrários advogam que os preços de combustíveis são estratégicos e devem ser administrados diretamente pelo governo ou por sua empresa controlada, a Petrobrás. Para estes o controle dos preços dos combustíveis, energia e outros bens devem ter em vista a qualidade de vida, a previsibilidade dos investimentos e o controle inflacionário. Como consequência, tais medidas impedem que o lucro das empresas de energia aumente na mesma proporção que a alta do valor internacional do petróleo.",
-            "resposta": "0"
+            "resposta": "0",
+            "afinidade": "0"
         },
         {
             "id": "8",
@@ -134,7 +151,8 @@
             "titulo": "Petrobrás sem prioridade no Pré-sal",
             "pergunta": "A Petrobrás deve voltar a ter prioridade na exploração do Pré-sal em relação às petroleiras de outros países (volta do regime de partilha)?",
             "descricao": "A legislação que controlava a exploração da camada Pré-sal de petróleo exigia, até 2016, que a Petrobrás participasse diretamente — sozinha ou por meio de consórcios — da exploração de todos os campos licitados. Naquele ano, essa obrigatoriedade foi flexibilizada, cabendo à empresa decidir se tinha ou não interesse em participar da exploração dos blocos. Os defensores da medida afirmam que ela era necessária, pois a empresa não teria capacidade financeira para participar de todas as empreitadas. Os críticos dizem que a medida causa prejuízos ao patrimônio nacional, com reflexos em cadeias industriais que poderiam, caso a obrigatoriedade fosse mantida, ser importantes motores do desenvolvimento nacional.",
-            "resposta": "0"
+            "resposta": "0",
+            "afinidade": "0"
         },
         {
             "id": "9",
@@ -142,7 +160,8 @@
             "titulo": "MP do Trilhão",
             "pergunta": "As petroleiras estrangeiras devem continuar recebendo incentivos fiscais?",
             "descricao": "A Medida Provisória 795, apelidada de MP do Trilhão — pois essa é a estimativa de renúncia fiscal por parte do Governo Federal durante sua vigência –, concedeu isenção fiscal para a importação de equipamentos às petroleiras estrangeiras envolvidas na exploração do Pré-sal. Os defensores da MP alegam que essa renúncia será revertida em aumento de arrecadação devido à exploração do petróleo, que sem a MP não seria possível. Os críticos afirmam que a exploração ocorreria independentemente de qualquer renúncia, que esta se reverterá apenas em aumento de lucratividade das empresas estrangeiras, e que prejudicará a geração de empregos no Brasil.",
-            "resposta": "0"
+            "resposta": "0",
+            "afinidade": "0"
         },
         {
             "id": "10",
@@ -150,7 +169,8 @@
             "titulo": "Privatização da Eletrobrás",
             "pergunta": "Você acha que as distribuidoras de energia da Eletrobras devem ser privatizadas?",
             "descricao": "Sistemas de energia são constituídos, grosso modo, em três fases: geração, transmissão e distribuição. A Eletrobras atua principalmente nas duas primeiras, mas mantém ainda seis distribuidoras em estados do Norte e Nordeste do país. Estas empresas são deficitárias, sendo subsidiadas pela Eletrobras e seu controlador, a União. Os defensores da privatização alegam que o Governo Federal não possui recursos para manter a operação dessas empresas e pretendem privatizá-las. Os setores contrários à medida argumentam que a privatização pressionará o aumento das tarifas de energia ao consumidor final e a queda na qualidade da prestação dos serviços.",
-            "resposta": "0"
+            "resposta": "0",
+            "afinidade": "0"
         },
         {
             "id": "11",
@@ -158,7 +178,8 @@
             "titulo": "Maior investimento no SUS",
             "pergunta": "O Estado deve fazer maiores investimentos na saúde pública, mantendo o SUS público e gratuito?",
             "descricao": "O financiamento do Sistema Único de Saúde (SUS) é, como determina a Constituição Federal, tripartite. Cabe aos municípios aplicar pelo menos 15% da arrecadação de impostos; aos Estados, 12%; e à União o valor gasto no ano anterior mais o percentual relativo à variação do Produto Interno Bruto (PIB) do ano anterior. Muitos especialistas acreditam que o SUS está subfinanciado e que caberia à União contribuir com pelo menos 10% de sua arrecadação, definida também em lei. Há também os que defendem que não existe subfinanciamento da saúde pública no país, mas apenas problemas de gestão dos recursos já instituídos pela legislação atual.",
-            "resposta": "0"
+            "resposta": "0",
+            "afinidade": "0"
         },
         {
             "id": "12",
@@ -166,7 +187,8 @@
             "titulo": "Agrotóxicos",
             "pergunta": "O uso de agrotóxicos deve ser flexibilizado pelo Estado?",
             "descricao": "Agrotóxicos são substâncias químicas amplamente aplicadas na produção agrícola. Algumas delas, se usadas em grandes quantidades, podem ser nocivas aos trabalhadores e aos consumidores. A PL 6299/02, em tramitação no Congresso Nacional, procura estabelecer novos trâmites para a aprovação e registro de agrotóxicos junto aos órgãos federais de controle, tornando-as menos rígidas. Os defensores a chamam de “Lei dos Alimentos Mais Seguros” e afirmam que a mudança garantirá o protagonismo do país como grande produtor agrícola para os próximos anos. Os críticos a chamam de “PL do Veneno” e prevêem que a aprovação será seguida por contaminações ambientais, com implicações à saúde das populações e ao meio ambiente.",
-            "resposta": "0"
+            "resposta": "0",
+            "afinidade": "0"
         },
         {
             "id": "13",
@@ -174,7 +196,8 @@
             "titulo": "Reforma Agrária e Agricultura familiar",
             "pergunta": "Você defende a Reforma Agrária e dá prioridade à agricultura familiar?",
             "descricao": "Em breve.",
-            "resposta": "0"
+            "resposta": "0",
+            "afinidade": "0"
         },
         {
             "id": "14",
@@ -182,7 +205,8 @@
             "titulo": "Estatuto da Família",
             "pergunta": "Você defende o direito das pessoas LGBT constituírem uma família e terem sua união civil reconhecida pelo Estado?",
             "descricao": "A união civil é a forma jurídica que garante direitos aos casais comprovadamente em união estável, independentemente das diversas possibilidades de configuração existentes. Os defensores do direito das pessoas LGBT constituírem família e terem reconhecida sua união civil argumentam que não cabe ao Estado interferir nas escolhas individuais. Os críticos desta posição geralmente defendem o Estatuto da Família, o qual define entidade familiar como o núcleo social formado a partir da união entre um homem e uma mulher e seus descendentes.",
-            "resposta": "0"
+            "resposta": "0",
+            "afinidade": "0"
         },
         {
             "id": "15",
@@ -190,7 +214,8 @@
             "titulo": "Descriminalização do Aborto",
             "pergunta": "O aborto deve ser tratado como crime?",
             "descricao": "A legislação atual prevê que o aborto só não é crime — com pena de prisão para a mulher e o médico — nos casos em que a gravidez coloca em risco a saúde materna ou foi fruto de estupro. Os defensores argumentam que não deve haver mudança legislativa e que a gravidez indesejada deve ser combatida por outros meios, devendo as mulheres que interrompem sua gravidez ser presas. Os críticos argumentam que a continuidade ou a interrupção da gravidez deve ser uma livre escolha da mulher gestante, desde que até 90 dias de gestação, e que sua criminalização é responsável por procedimentos realizados em situações precárias especialmente pelas mulheres pobres, muitas das quais acabam morrendo.",
-            "resposta": "0"
+            "resposta": "0",
+            "afinidade": "0"
         },
         {
             "id": "16",
@@ -198,7 +223,8 @@
             "titulo": "Desarmamento",
             "pergunta": "O acesso a armas de fogo deve ser controlado com maior rigor pelo Estado (Estatuto do Desarmamento)?",
             "descricao": "Há nesta controvérsia uma diversa disputa de pontos de vista. Os que defendem o maior controle ao acesso a armas de fogo pelo Estado argumentam que a precaução e a redução das desigualdades são mais eficazes na diminuição da violência. Sustentam também que mais armas espalhadas pela população em geral causariam mais violência e mortes. Dentre os que defendem o direito à autodefesa existem duas posições. Uma delas é a de que os cidadãos devem ter o direito de defender-se dos criminosos e que o direito à posse de armas de fogo deve ser flexibilizado para a maior parte da população. A outra é a de que os trabalhadores e os setores oprimidos e marginalizados da população devem ter o direito de autodefesa dos setores opressores, inclusive armada se necessário.",
-            "resposta": "0"
+            "resposta": "0",
+            "afinidade": "0"
         },
         {
             "id": "17",
@@ -206,7 +232,8 @@
             "titulo": "Intervenção militar no Rio",
             "pergunta": "Você concorda com a intervenção federal no Rio, em que o exército chefia a segurança pública?",
             "descricao": "Os defensores da intervenção federal ocorrida no Rio de Janeiro argumentam que esta era a única solução para o descontrole da segurança pública naquele estado. Os críticos argumentam que se trata de uma medida criada pelo atual Governo Federal para distrair a atenção da sociedade sobre os casos de corrupção envolvendo integrantes da alta cúpula, e que a intervenção — comandada sob uma lógica militar — ao invés de diminuir a violência tende a aumentá-la.",
-            "resposta": "0"
+            "resposta": "0",
+            "afinidade": "0"
         },
         {
             "id": "18",
@@ -214,7 +241,8 @@
             "titulo": "Redução da maioridade penal",
             "pergunta": "A maioridade penal deve ser reduzida para 16 anos?",
             "descricao": "Os defensores da redução da maioridade penal acreditam que aos 16 anos o jovem já está com seu desenvolvimento moral e intelectual completo, como faz crer a legislação eleitoral brasileira que faculta o direito ao voto. Os críticos argumentam que colocar os adolescentes para conviver com bandidos mais experientes transforma as penitenciárias em universidades do crime, além de que o Estatuto da Criança e do Adolescente (ECA) já possui diversas penas gradativas.",
-            "resposta": "0"
+            "resposta": "0",
+            "afinidade": "0"
         },
         {
             "id": "19",
@@ -222,7 +250,8 @@
             "titulo": "Descriminalização da maconha",
             "pergunta": "O consumo de maconha deve ser tratado como crime?",
             "descricao": "Os defensores da descriminalização do consumo de maconha apresentam diversos argumentos. O primeiro deles é o de que esta substância tem menor potencial lesivo ao organismo do que o de muitas drogas lícitas, como o álcool ou o tabaco. O segundo é o de que sua regulação economizaria recursos públicos e força policial hoje desperdiçados no seu combate. O terceiro é o de que a arrecadação de impostos dela decorrentes criaria receita para ser usada em políticas públicas. O quarto é o de que a descriminalização quebraria a espinha dorsal do narcotráfico, cuja alta lucratividade é consequência da contradição entre existir demanda e o consumo ser proibido e tratado como crime. Os críticos alegam que a maconha é uma droga de entrada para entorpecentes mais perigosos e que aumenta o risco de desenvolvimento de doenças mentais, devendo, portanto, permanecer seu consumo criminalizado.",
-            "resposta": "0"
+            "resposta": "0",
+            "afinidade": "0"
         },
         {
             "id": "20",
@@ -230,7 +259,8 @@
             "titulo": "Escola sem partido",
             "pergunta": "Os professores devem ter total liberdade para expressarem suas ideias e opiniões em sala de aula (sem nenhuma limitação colocada pelo Estado ou pelas famílias)?",
             "descricao": "O PL 867/2015 — conhecido como “Escola sem Partido” — prevê que, nos ensinos básico e médio, haja um freio na liberdade de cátedra, com professores tendo que respeitar certos limites na transmissão de seus próprios valores e ideologia aos alunos. Os defensores do projeto argumentam que os alunos nestes níveis de ensino ainda não têm maturidade suficiente para pesar o viés dos professores na transmissão de conhecimento e, portanto, caberia aos últimos filtrá-lo. Os críticos do projeto afirmam que, na verdade, é ele quem estaria sendo utilizado de forma ideológica, diminuindo a qualidade e a diversidade de pontos de vista nas aulas e impedindo o desenvolvimento integral dos alunos.",
-            "resposta": "0"
+            "resposta": "0",
+            "afinidade": "0"
         },
         {
             "id": "21",
@@ -238,7 +268,8 @@
             "titulo": "Educação pública",
             "pergunta": "O Estado deve fazer maiores investimentos na educação pública, mantendo escolas e universidades públicas com acesso universal e gratuito?",
             "descricao": "Em breve.",
-            "resposta": "0"
+            "resposta": "0",
+            "afinidade": "0"
         },
         {
             "id": "22",
@@ -246,7 +277,8 @@
             "titulo": "Cotas em universidades públicas",
             "pergunta": "Você concorda com a política de cotas nas universidades públicas?",
             "descricao": "Os defensores das cotas argumentam que elas visam equalizar as chances de acessar um serviço público aos vários estratos sociais. No caso das universidades públicas, que têm um número de vagas muito inferior ao da demanda social, buscam aumentar as chances de indivíduos oriundos de populações vistas como vulneráveis — tais como negros e indígenas — conseguirem cursar o ensino superior gratuito e de alta qualidade que as universidades públicas oferecem. Os críticos das cotas afirmam que os sistemas de acesso regulares — vestibulares em seus muitos modelos — já são insensíveis às características étnicas dos concorrentes e que a forma mais justa de melhorar o acesso de populações vulneráveis seria a melhora dos ensinos básico e médio para estas parcelas da sociedade.",
-            "resposta": "0"
+            "resposta": "0",
+            "afinidade": "0"
         },
         {
             "id": "23",
@@ -254,7 +286,8 @@
             "titulo": "Reforma do Ensino Médio",
             "pergunta": "O currículo obrigatório do Ensino Médio deve ser reduzido?",
             "descricao": "A polêmica refere-se a quais conteúdos devem ser obrigatórios durante o Ensino Médio. Os defensores da redução curricular argumentam que se deveria concentrar o ensino nas matérias de português e matemática, com a maioria das demais sendo oferecidas como opcionais aos alunos. Os críticos da medida argumentam que os currículos deveriam ser mais amplos e a carga horária das matérias mais bem distribuídas entre elas.",
-            "resposta": "0"
+            "resposta": "0",
+            "afinidade": "0"
         }
     ],
     "RespostasCandidatos": [
