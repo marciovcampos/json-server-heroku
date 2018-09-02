@@ -60,5 +60,122 @@
           "Partido": "PSL",
           "Nome": "Jair Bolsonaro"
       }
+  ],
+  "Perguntas": [
+      {
+          "Id": "1",
+          "Área": "Economia",
+          "Pergunta": "Você concorda com as alterações realizadas na CLT e defende que a terceirização possa ocorrer em todas as atividades das empresas (Reforma Trabalhista)?"
+      },
+      {
+          "Id": "2",
+          "Área": "Economia",
+          "Pergunta": "Os trabalhadores devem contribuir mais tempo do que contribuem hoje para se aposentar (Reforma da Previdência)?"
+      },
+      {
+          "Id": "3",
+          "Área": "Economia",
+          "Pergunta": "Você defende o congelamento dos gastos com investimentos e serviços públicos por 20 anos (PEC do Teto)?"
+      },
+      {
+          "Id": "4",
+          "Área": "Economia",
+          "Pergunta": "A tributação deve se tornar progressiva, começando a cobrar impostos dos lucros de acionistas e das grandes heranças?"
+      },
+      {
+          "Id": "5",
+          "Área": "Economia",
+          "Pergunta": "O Estado deve ser empreendedor e investir ativamente na economia (desenvolvimentismo)?"
+      },
+      {
+          "Id": "6",
+          "Área": "Economia",
+          "Pergunta": "O ajuste fiscal deve ser a principal prioridade do governo federal?"
+      },
+      {
+          "Id": "7",
+          "Área": "Energia",
+          "Pergunta": "Você defende que os preços dos combustíveis no Brasil continuem flutuando segundo as variações do mercado internacional de petróleo?"
+      },
+      {
+          "Id": "8",
+          "Área": "Energia",
+          "Pergunta": "A Petrobrás deve voltar a ter prioridade na exploração do Pré-sal em relação às petroleiras de outros países (volta do regime de partilha)?"
+      },
+      {
+          "Id": "9",
+          "Área": "Energia",
+          "Pergunta": "As petroleiras estrangeiras devem continuar recebendo incentivos fiscais?"
+      },
+      {
+          "Id": "10",
+          "Área": "Energia",
+          "Pergunta": "Você acha que as distribuidoras de energia da Eletrobras devem ser privatizadas?"
+      },
+      {
+          "Id": "11",
+          "Área": "Proteção Social",
+          "Pergunta": "O Estado deve fazer maiores investimentos na saúde pública, mantendo o SUS público e gratuito?"
+      },
+      {
+          "Id": "12",
+          "Área": "Proteção Social",
+          "Pergunta": "O uso de agrotóxicos deve ser flexibilizado pelo Estado?"
+      },
+      {
+          "Id": "13",
+          "Área": "Proteção Social",
+          "Pergunta": "Você defende a Reforma Agrária e dá prioridade à agricultura familiar?"
+      },
+      {
+          "Id": "14",
+          "Área": "Proteção Social",
+          "Pergunta": "Você defende o direito das pessoas LGBT constituírem uma família e terem sua união civil reconhecida pelo Estado?"
+      },
+      {
+          "Id": "15",
+          "Área": "Proteção Social",
+          "Pergunta": "O aborto deve ser tratado como crime?"
+      },
+      {
+          "Id": "16",
+          "Área": "Segurança",
+          "Pergunta": "O acesso a armas de fogo deve ser controlado com maior rigor pelo Estado (Estatuto do Desarmamento)?"
+      },
+      {
+          "Id": "17",
+          "Área": "Segurança",
+          "Pergunta": "Você concorda com a intervenção federal no Rio, em que o exército chefia a segurança pública?"
+      },
+      {
+          "Id": "18",
+          "Área": "Segurança",
+          "Pergunta": "A maioridade penal deve ser reduzida para 16 anos?"
+      },
+      {
+          "Id": "19",
+          "Área": "Segurança",
+          "Pergunta": "O consumo de maconha deve ser tratado como crime?"
+      },
+      {
+          "Id": "20",
+          "Área": "Educação",
+          "Pergunta": "Os professores devem ter total liberdade para expressarem suas ideias e opiniões em sala de aula (sem nenhuma limitação colocada pelo Estado ou pelas famílias)?"
+      },
+      {
+          "Id": "21",
+          "Área": "Educação",
+          "Pergunta": "O Estado deve fazer maiores investimentos na educação pública, mantendo escolas e universidades públicas com acesso universal e gratuito?"
+      },
+      {
+          "Id": "22",
+          "Área": "Educação",
+          "Pergunta": "Você concorda com a política de cotas nas universidades públicas?"
+      },
+      {
+          "Id": "23",
+          "Área": "Educação",
+          "Pergunta": "O currículo obrigatório do Ensino Médio deve ser reduzido?"
+      }
   ]
 }
