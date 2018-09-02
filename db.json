@@ -1,16 +1,64 @@
 {
-    "posts":[
+  "Candidatos": [
       {
-        "id" : 0,
-        "title": "First post!",
-        "content" : "My first content!"
-      }
-    ],
-    "comments" : [
+          "Id": "1",
+          "Numero": "50",
+          "Partido": "PSOL",
+          "Nome": "Guilherme Boulos"
+      },
       {
-        "id": 0,
-        "content": "Wow such content!",
-        "username": "zero_cool"
+          "Id": "2",
+          "Numero": "16",
+          "Partido": "PSTU",
+          "Nome": "Vera Lúcia"
+      },
+      {
+          "Id": "3",
+          "Numero": "13",
+          "Partido": "PT",
+          "Nome": "Fernando Haddad"
+      },
+      {
+          "Id": "4",
+          "Numero": "12",
+          "Partido": "PDT",
+          "Nome": "Ciro Gomes"
+      },
+      {
+          "Id": "5",
+          "Numero": "18",
+          "Partido": "REDE",
+          "Nome": "Marina Silva"
+      },
+      {
+          "Id": "6",
+          "Numero": "19",
+          "Partido": "PODEMOS",
+          "Nome": "Alvaro Dias"
+      },
+      {
+          "Id": "7",
+          "Numero": "15",
+          "Partido": "MDB",
+          "Nome": "Henrique Meirelles"
+      },
+      {
+          "Id": "8",
+          "Numero": "45",
+          "Partido": "PSDB",
+          "Nome": "Geraldo Alckmin"
+      },
+      {
+          "Id": "9",
+          "Numero": "30",
+          "Partido": "NOVO",
+          "Nome": "João Amoedo"
+      },
+      {
+          "Id": "10",
+          "Numero": "17",
+          "Partido": "PSL",
+          "Nome": "Jair Bolsonaro"
       }
-    ]
-  }
+  ]
+}
