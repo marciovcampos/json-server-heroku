@@ -4,61 +4,71 @@
             "id": "1",
             "numero": "50",
             "partido": "PSOL",
-            "nome": "Guilherme Boulos"
+            "nome": "Guilherme Boulos",
+            "foto": "https://s3.amazonaws.com/storagevotocerto/candidatos/guilherme_boulos.jpg"
         },
         {
             "id": "2",
             "numero": "16",
             "partido": "PSTU",
-            "nome": "Vera Lúcia"
+            "nome": "Vera Lúcia",
+            "foto": "https://s3.amazonaws.com/storagevotocerto/candidatos/vera_lucia.jpg"
         },
         {
             "id": "3",
             "numero": "13",
             "partido": "PT",
-            "nome": "Fernando Haddad"
+            "nome": "Fernando Haddad",
+            "foto": "https://s3.amazonaws.com/storagevotocerto/candidatos/fernando_haddad.jpg"
         },
         {
             "id": "4",
             "numero": "12",
             "partido": "PDT",
-            "nome": "Ciro Gomes"
+            "nome": "Ciro Gomes",
+            "foto": "https://s3.amazonaws.com/storagevotocerto/candidatos/ciro_gomes.jpg"
         },
         {
             "id": "5",
             "numero": "18",
             "partido": "REDE",
-            "nome": "Marina Silva"
+            "nome": "Marina Silva",
+            "foto": "https://s3.amazonaws.com/storagevotocerto/candidatos/marina_silva.jpg"
         },
         {
             "id": "6",
             "numero": "19",
             "partido": "PODEMOS",
-            "nome": "Alvaro Dias"
+            "nome": "Alvaro Dias",
+            "foto": "https://s3.amazonaws.com/storagevotocerto/candidatos/alvaro_dias.jpg"
         },
         {
             "id": "7",
             "numero": "15",
             "partido": "MDB",
-            "nome": "Henrique Meirelles"
+            "nome": "Henrique Meirelles",
+            "foto": "https://s3.amazonaws.com/storagevotocerto/candidatos/henrique_meirelles.jpg"
         },
         {
             "id": "8",
             "numero": "45",
             "partido": "PSDB",
-            "nome": "Geraldo Alckmin"
+            "nome": "Geraldo Alckmin",
+            "foto": "https://s3.amazonaws.com/storagevotocerto/candidatos/geraldo_alckmin.jpg"
         },
         {
             "id": "9",
             "numero": "30",
             "partido": "NOVO",
-            "nome": "João Amoedo"
+            "nome": "João Amoedo",
+            "foto": "https://s3.amazonaws.com/storagevotocerto/candidatos/joao_amoedo.jpg"
         },
         {
             "id": "10",
             "numero": "17",
             "partido": "PSL",
-            "nome": "Jair Bolsonaro"
+            "nome": "Jair Bolsonaro",
+            "foto": "https://s3.amazonaws.com/storagevotocerto/candidatos/jair_bolsonaro.jpg"
         }
     ],
     "Perguntas": [
