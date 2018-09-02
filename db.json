@@ -1,181 +1,1555 @@
 {
-  "Candidatos": [
-      {
-          "Id": "1",
-          "Numero": "50",
-          "Partido": "PSOL",
-          "Nome": "Guilherme Boulos"
-      },
-      {
-          "Id": "2",
-          "Numero": "16",
-          "Partido": "PSTU",
-          "Nome": "Vera Lúcia"
-      },
-      {
-          "Id": "3",
-          "Numero": "13",
-          "Partido": "PT",
-          "Nome": "Fernando Haddad"
-      },
-      {
-          "Id": "4",
-          "Numero": "12",
-          "Partido": "PDT",
-          "Nome": "Ciro Gomes"
-      },
-      {
-          "Id": "5",
-          "Numero": "18",
-          "Partido": "REDE",
-          "Nome": "Marina Silva"
-      },
-      {
-          "Id": "6",
-          "Numero": "19",
-          "Partido": "PODEMOS",
-          "Nome": "Alvaro Dias"
-      },
-      {
-          "Id": "7",
-          "Numero": "15",
-          "Partido": "MDB",
-          "Nome": "Henrique Meirelles"
-      },
-      {
-          "Id": "8",
-          "Numero": "45",
-          "Partido": "PSDB",
-          "Nome": "Geraldo Alckmin"
-      },
-      {
-          "Id": "9",
-          "Numero": "30",
-          "Partido": "NOVO",
-          "Nome": "João Amoedo"
-      },
-      {
-          "Id": "10",
-          "Numero": "17",
-          "Partido": "PSL",
-          "Nome": "Jair Bolsonaro"
-      }
-  ],
-  "Perguntas": [
-      {
-          "Id": "1",
-          "Área": "Economia",
-          "Pergunta": "Você concorda com as alterações realizadas na CLT e defende que a terceirização possa ocorrer em todas as atividades das empresas (Reforma Trabalhista)?"
-      },
-      {
-          "Id": "2",
-          "Área": "Economia",
-          "Pergunta": "Os trabalhadores devem contribuir mais tempo do que contribuem hoje para se aposentar (Reforma da Previdência)?"
-      },
-      {
-          "Id": "3",
-          "Área": "Economia",
-          "Pergunta": "Você defende o congelamento dos gastos com investimentos e serviços públicos por 20 anos (PEC do Teto)?"
-      },
-      {
-          "Id": "4",
-          "Área": "Economia",
-          "Pergunta": "A tributação deve se tornar progressiva, começando a cobrar impostos dos lucros de acionistas e das grandes heranças?"
-      },
-      {
-          "Id": "5",
-          "Área": "Economia",
-          "Pergunta": "O Estado deve ser empreendedor e investir ativamente na economia (desenvolvimentismo)?"
-      },
-      {
-          "Id": "6",
-          "Área": "Economia",
-          "Pergunta": "O ajuste fiscal deve ser a principal prioridade do governo federal?"
-      },
-      {
-          "Id": "7",
-          "Área": "Energia",
-          "Pergunta": "Você defende que os preços dos combustíveis no Brasil continuem flutuando segundo as variações do mercado internacional de petróleo?"
-      },
-      {
-          "Id": "8",
-          "Área": "Energia",
-          "Pergunta": "A Petrobrás deve voltar a ter prioridade na exploração do Pré-sal em relação às petroleiras de outros países (volta do regime de partilha)?"
-      },
-      {
-          "Id": "9",
-          "Área": "Energia",
-          "Pergunta": "As petroleiras estrangeiras devem continuar recebendo incentivos fiscais?"
-      },
-      {
-          "Id": "10",
-          "Área": "Energia",
-          "Pergunta": "Você acha que as distribuidoras de energia da Eletrobras devem ser privatizadas?"
-      },
-      {
-          "Id": "11",
-          "Área": "Proteção Social",
-          "Pergunta": "O Estado deve fazer maiores investimentos na saúde pública, mantendo o SUS público e gratuito?"
-      },
-      {
-          "Id": "12",
-          "Área": "Proteção Social",
-          "Pergunta": "O uso de agrotóxicos deve ser flexibilizado pelo Estado?"
-      },
-      {
-          "Id": "13",
-          "Área": "Proteção Social",
-          "Pergunta": "Você defende a Reforma Agrária e dá prioridade à agricultura familiar?"
-      },
-      {
-          "Id": "14",
-          "Área": "Proteção Social",
-          "Pergunta": "Você defende o direito das pessoas LGBT constituírem uma família e terem sua união civil reconhecida pelo Estado?"
-      },
-      {
-          "Id": "15",
-          "Área": "Proteção Social",
-          "Pergunta": "O aborto deve ser tratado como crime?"
-      },
-      {
-          "Id": "16",
-          "Área": "Segurança",
-          "Pergunta": "O acesso a armas de fogo deve ser controlado com maior rigor pelo Estado (Estatuto do Desarmamento)?"
-      },
-      {
-          "Id": "17",
-          "Área": "Segurança",
-          "Pergunta": "Você concorda com a intervenção federal no Rio, em que o exército chefia a segurança pública?"
-      },
-      {
-          "Id": "18",
-          "Área": "Segurança",
-          "Pergunta": "A maioridade penal deve ser reduzida para 16 anos?"
-      },
-      {
-          "Id": "19",
-          "Área": "Segurança",
-          "Pergunta": "O consumo de maconha deve ser tratado como crime?"
-      },
-      {
-          "Id": "20",
-          "Área": "Educação",
-          "Pergunta": "Os professores devem ter total liberdade para expressarem suas ideias e opiniões em sala de aula (sem nenhuma limitação colocada pelo Estado ou pelas famílias)?"
-      },
-      {
-          "Id": "21",
-          "Área": "Educação",
-          "Pergunta": "O Estado deve fazer maiores investimentos na educação pública, mantendo escolas e universidades públicas com acesso universal e gratuito?"
-      },
-      {
-          "Id": "22",
-          "Área": "Educação",
-          "Pergunta": "Você concorda com a política de cotas nas universidades públicas?"
-      },
-      {
-          "Id": "23",
-          "Área": "Educação",
-          "Pergunta": "O currículo obrigatório do Ensino Médio deve ser reduzido?"
-      }
-  ]
+    "Candidatos": [
+        {
+            "id": "1",
+            "numero": "50",
+            "partido": "PSOL",
+            "nome": "Guilherme Boulos"
+        },
+        {
+            "id": "2",
+            "numero": "16",
+            "partido": "PSTU",
+            "nome": "Vera Lúcia"
+        },
+        {
+            "id": "3",
+            "numero": "13",
+            "partido": "PT",
+            "nome": "Fernando Haddad"
+        },
+        {
+            "id": "4",
+            "numero": "12",
+            "partido": "PDT",
+            "nome": "Ciro Gomes"
+        },
+        {
+            "id": "5",
+            "numero": "18",
+            "partido": "REDE",
+            "nome": "Marina Silva"
+        },
+        {
+            "id": "6",
+            "numero": "19",
+            "partido": "PODEMOS",
+            "nome": "Alvaro Dias"
+        },
+        {
+            "id": "7",
+            "numero": "15",
+            "partido": "MDB",
+            "nome": "Henrique Meirelles"
+        },
+        {
+            "id": "8",
+            "numero": "45",
+            "partido": "PSDB",
+            "nome": "Geraldo Alckmin"
+        },
+        {
+            "id": "9",
+            "numero": "30",
+            "partido": "NOVO",
+            "nome": "João Amoedo"
+        },
+        {
+            "id": "10",
+            "numero": "17",
+            "partido": "PSL",
+            "nome": "Jair Bolsonaro"
+        }
+    ],
+    "Perguntas": [
+        {
+            "id": "1",
+            "area": "Economia",
+            "pergunta": "Você concorda com as alterações realizadas na CLT e defende que a terceirização possa ocorrer em todas as atividades das empresas (Reforma Trabalhista)?"
+        },
+        {
+            "id": "2",
+            "area": "Economia",
+            "pergunta": "Os trabalhadores devem contribuir mais tempo do que contribuem hoje para se aposentar (Reforma da Previdência)?"
+        },
+        {
+            "id": "3",
+            "area": "Economia",
+            "pergunta": "Você defende o congelamento dos gastos com investimentos e serviços públicos por 20 anos (PEC do Teto)?"
+        },
+        {
+            "id": "4",
+            "area": "Economia",
+            "pergunta": "A tributação deve se tornar progressiva, começando a cobrar impostos dos lucros de acionistas e das grandes heranças?"
+        },
+        {
+            "id": "5",
+            "area": "Economia",
+            "pergunta": "O Estado deve ser empreendedor e investir ativamente na economia (desenvolvimentismo)?"
+        },
+        {
+            "id": "6",
+            "area": "Economia",
+            "pergunta": "O ajuste fiscal deve ser a principal prioridade do governo federal?"
+        },
+        {
+            "id": "7",
+            "area": "Energia",
+            "pergunta": "Você defende que os preços dos combustíveis no Brasil continuem flutuando segundo as variações do mercado internacional de petróleo?"
+        },
+        {
+            "id": "8",
+            "area": "Energia",
+            "pergunta": "A Petrobrás deve voltar a ter prioridade na exploração do Pré-sal em relação às petroleiras de outros países (volta do regime de partilha)?"
+        },
+        {
+            "id": "9",
+            "area": "Energia",
+            "pergunta": "As petroleiras estrangeiras devem continuar recebendo incentivos fiscais?"
+        },
+        {
+            "id": "10",
+            "area": "Energia",
+            "pergunta": "Você acha que as distribuidoras de energia da Eletrobras devem ser privatizadas?"
+        },
+        {
+            "id": "11",
+            "area": "Proteção Social",
+            "pergunta": "O Estado deve fazer maiores investimentos na saúde pública, mantendo o SUS público e gratuito?"
+        },
+        {
+            "id": "12",
+            "area": "Proteção Social",
+            "pergunta": "O uso de agrotóxicos deve ser flexibilizado pelo Estado?"
+        },
+        {
+            "id": "13",
+            "area": "Proteção Social",
+            "pergunta": "Você defende a Reforma Agrária e dá prioridade à agricultura familiar?"
+        },
+        {
+            "id": "14",
+            "area": "Proteção Social",
+            "pergunta": "Você defende o direito das pessoas LGBT constituírem uma família e terem sua união civil reconhecida pelo Estado?"
+        },
+        {
+            "id": "15",
+            "area": "Proteção Social",
+            "pergunta": "O aborto deve ser tratado como crime?"
+        },
+        {
+            "id": "16",
+            "area": "Segurança",
+            "pergunta": "O acesso a armas de fogo deve ser controlado com maior rigor pelo Estado (Estatuto do Desarmamento)?"
+        },
+        {
+            "id": "17",
+            "area": "Segurança",
+            "pergunta": "Você concorda com a intervenção federal no Rio, em que o exército chefia a segurança pública?"
+        },
+        {
+            "id": "18",
+            "area": "Segurança",
+            "pergunta": "A maioridade penal deve ser reduzida para 16 anos?"
+        },
+        {
+            "id": "19",
+            "area": "Segurança",
+            "pergunta": "O consumo de maconha deve ser tratado como crime?"
+        },
+        {
+            "id": "20",
+            "area": "Educação",
+            "pergunta": "Os professores devem ter total liberdade para expressarem suas ideias e opiniões em sala de aula (sem nenhuma limitação colocada pelo Estado ou pelas famílias)?"
+        },
+        {
+            "id": "21",
+            "area": "Educação",
+            "pergunta": "O Estado deve fazer maiores investimentos na educação pública, mantendo escolas e universidades públicas com acesso universal e gratuito?"
+        },
+        {
+            "id": "22",
+            "area": "Educação",
+            "pergunta": "Você concorda com a política de cotas nas universidades públicas?"
+        },
+        {
+            "id": "23",
+            "area": "Educação",
+            "pergunta": "O currículo obrigatório do Ensino Médio deve ser reduzido?"
+        }
+    ],
+    "RespostasCandidatos": [
+        {
+            "id": "1",
+            "idPergunta": "1",
+            "idCandidato": "1",
+            "resposta": "Não"
+        },
+        {
+            "id": "2",
+            "idPergunta": "1",
+            "idCandidato": "2",
+            "resposta": "Não"
+        },
+        {
+            "id": "3",
+            "idPergunta": "1",
+            "idCandidato": "3",
+            "resposta": "Não"
+        },
+        {
+            "id": "4",
+            "idPergunta": "1",
+            "idCandidato": "4",
+            "resposta": "Não"
+        },
+        {
+            "id": "5",
+            "idPergunta": "1",
+            "idCandidato": "5",
+            "resposta": "Não"
+        },
+        {
+            "id": "6",
+            "idPergunta": "1",
+            "idCandidato": "6",
+            "resposta": "Depende"
+        },
+        {
+            "id": "7",
+            "idPergunta": "1",
+            "idCandidato": "7",
+            "resposta": "Sim"
+        },
+        {
+            "id": "8",
+            "idPergunta": "1",
+            "idCandidato": "8",
+            "resposta": "Sim"
+        },
+        {
+            "id": "9",
+            "idPergunta": "1",
+            "idCandidato": "9",
+            "resposta": "Sim"
+        },
+        {
+            "id": "10",
+            "idPergunta": "1",
+            "idCandidato": "10",
+            "resposta": "Sim"
+        },
+        {
+            "id": "11",
+            "idPergunta": "2",
+            "idCandidato": "1",
+            "resposta": "Não"
+        },
+        {
+            "id": "12",
+            "idPergunta": "2",
+            "idCandidato": "2",
+            "resposta": "Não"
+        },
+        {
+            "id": "13",
+            "idPergunta": "2",
+            "idCandidato": "3",
+            "resposta": "Não"
+        },
+        {
+            "id": "14",
+            "idPergunta": "2",
+            "idCandidato": "4",
+            "resposta": "Depende"
+        },
+        {
+            "id": "15",
+            "idPergunta": "2",
+            "idCandidato": "5",
+            "resposta": "Depende"
+        },
+        {
+            "id": "16",
+            "idPergunta": "2",
+            "idCandidato": "6",
+            "resposta": "Sim"
+        },
+        {
+            "id": "17",
+            "idPergunta": "2",
+            "idCandidato": "7",
+            "resposta": "Sim"
+        },
+        {
+            "id": "18",
+            "idPergunta": "2",
+            "idCandidato": "8",
+            "resposta": "Sim"
+        },
+        {
+            "id": "19",
+            "idPergunta": "2",
+            "idCandidato": "9",
+            "resposta": "Sim"
+        },
+        {
+            "id": "20",
+            "idPergunta": "2",
+            "idCandidato": "10",
+            "resposta": "Sim"
+        },
+        {
+            "id": "21",
+            "idPergunta": "3",
+            "idCandidato": "1",
+            "resposta": "Não"
+        },
+        {
+            "id": "22",
+            "idPergunta": "3",
+            "idCandidato": "2",
+            "resposta": "Não"
+        },
+        {
+            "id": "23",
+            "idPergunta": "3",
+            "idCandidato": "3",
+            "resposta": "Não"
+        },
+        {
+            "id": "24",
+            "idPergunta": "3",
+            "idCandidato": "4",
+            "resposta": "Não"
+        },
+        {
+            "id": "25",
+            "idPergunta": "3",
+            "idCandidato": "5",
+            "resposta": "Não"
+        },
+        {
+            "id": "26",
+            "idPergunta": "3",
+            "idCandidato": "6",
+            "resposta": "Sim"
+        },
+        {
+            "id": "27",
+            "idPergunta": "3",
+            "idCandidato": "7",
+            "resposta": "Sim"
+        },
+        {
+            "id": "28",
+            "idPergunta": "3",
+            "idCandidato": "8",
+            "resposta": "Sim"
+        },
+        {
+            "id": "29",
+            "idPergunta": "3",
+            "idCandidato": "9",
+            "resposta": "Sim"
+        },
+        {
+            "id": "30",
+            "idPergunta": "3",
+            "idCandidato": "10",
+            "resposta": "Sim"
+        },
+        {
+            "id": "31",
+            "idPergunta": "4",
+            "idCandidato": "1",
+            "resposta": "Sim"
+        },
+        {
+            "id": "32",
+            "idPergunta": "4",
+            "idCandidato": "2",
+            "resposta": "Sim"
+        },
+        {
+            "id": "33",
+            "idPergunta": "4",
+            "idCandidato": "3",
+            "resposta": "Sim"
+        },
+        {
+            "id": "34",
+            "idPergunta": "4",
+            "idCandidato": "4",
+            "resposta": "Sim"
+        },
+        {
+            "id": "35",
+            "idPergunta": "4",
+            "idCandidato": "5",
+            "resposta": "Depende"
+        },
+        {
+            "id": "36",
+            "idPergunta": "4",
+            "idCandidato": "6",
+            "resposta": "Não"
+        },
+        {
+            "id": "37",
+            "idPergunta": "4",
+            "idCandidato": "7",
+            "resposta": "Não"
+        },
+        {
+            "id": "38",
+            "idPergunta": "4",
+            "idCandidato": "8",
+            "resposta": "Não"
+        },
+        {
+            "id": "39",
+            "idPergunta": "4",
+            "idCandidato": "9",
+            "resposta": "Não"
+        },
+        {
+            "id": "40",
+            "idPergunta": "4",
+            "idCandidato": "10",
+            "resposta": "Não"
+        },
+        {
+            "id": "41",
+            "idPergunta": "5",
+            "idCandidato": "1",
+            "resposta": "Sim"
+        },
+        {
+            "id": "42",
+            "idPergunta": "5",
+            "idCandidato": "2",
+            "resposta": "Depende"
+        },
+        {
+            "id": "43",
+            "idPergunta": "5",
+            "idCandidato": "3",
+            "resposta": "Sim"
+        },
+        {
+            "id": "44",
+            "idPergunta": "5",
+            "idCandidato": "4",
+            "resposta": "Sim"
+        },
+        {
+            "id": "45",
+            "idPergunta": "5",
+            "idCandidato": "5",
+            "resposta": "Depende"
+        },
+        {
+            "id": "46",
+            "idPergunta": "5",
+            "idCandidato": "6",
+            "resposta": "Não"
+        },
+        {
+            "id": "47",
+            "idPergunta": "5",
+            "idCandidato": "7",
+            "resposta": "Não"
+        },
+        {
+            "id": "48",
+            "idPergunta": "5",
+            "idCandidato": "8",
+            "resposta": "Não"
+        },
+        {
+            "id": "49",
+            "idPergunta": "5",
+            "idCandidato": "9",
+            "resposta": "Não"
+        },
+        {
+            "id": "50",
+            "idPergunta": "5",
+            "idCandidato": "10",
+            "resposta": "Depende"
+        },
+        {
+            "id": "51",
+            "idPergunta": "6",
+            "idCandidato": "1",
+            "resposta": "Não"
+        },
+        {
+            "id": "52",
+            "idPergunta": "6",
+            "idCandidato": "2",
+            "resposta": "Não"
+        },
+        {
+            "id": "53",
+            "idPergunta": "6",
+            "idCandidato": "3"
+        },
+        {
+            "id": "54",
+            "idPergunta": "6",
+            "idCandidato": "4",
+            "resposta": "Depende"
+        },
+        {
+            "id": "55",
+            "idPergunta": "6",
+            "idCandidato": "5",
+            "resposta": "Depende"
+        },
+        {
+            "id": "56",
+            "idPergunta": "6",
+            "idCandidato": "6",
+            "resposta": "Sim"
+        },
+        {
+            "id": "57",
+            "idPergunta": "6",
+            "idCandidato": "7",
+            "resposta": "Sim"
+        },
+        {
+            "id": "58",
+            "idPergunta": "6",
+            "idCandidato": "8",
+            "resposta": "Sim"
+        },
+        {
+            "id": "59",
+            "idPergunta": "6",
+            "idCandidato": "9",
+            "resposta": "Sim"
+        },
+        {
+            "id": "60",
+            "idPergunta": "6",
+            "idCandidato": "10",
+            "resposta": "Sim"
+        },
+        {
+            "id": "61",
+            "idPergunta": "7",
+            "idCandidato": "1",
+            "resposta": "Não"
+        },
+        {
+            "id": "62",
+            "idPergunta": "7",
+            "idCandidato": "2",
+            "resposta": "Não"
+        },
+        {
+            "id": "63",
+            "idPergunta": "7",
+            "idCandidato": "3",
+            "resposta": "Não"
+        },
+        {
+            "id": "64",
+            "idPergunta": "7",
+            "idCandidato": "4",
+            "resposta": "Não"
+        },
+        {
+            "id": "65",
+            "idPergunta": "7",
+            "idCandidato": "5",
+            "resposta": "Sim"
+        },
+        {
+            "id": "66",
+            "idPergunta": "7",
+            "idCandidato": "6",
+            "resposta": "Não"
+        },
+        {
+            "id": "67",
+            "idPergunta": "7",
+            "idCandidato": "7",
+            "resposta": "Sim"
+        },
+        {
+            "id": "68",
+            "idPergunta": "7",
+            "idCandidato": "8",
+            "resposta": "Sim"
+        },
+        {
+            "id": "69",
+            "idPergunta": "7",
+            "idCandidato": "9",
+            "resposta": "Sim"
+        },
+        {
+            "id": "70",
+            "idPergunta": "7",
+            "idCandidato": "10",
+            "resposta": "Sim"
+        },
+        {
+            "id": "71",
+            "idPergunta": "8",
+            "idCandidato": "1",
+            "resposta": "Sim"
+        },
+        {
+            "id": "72",
+            "idPergunta": "8",
+            "idCandidato": "2",
+            "resposta": "Sim"
+        },
+        {
+            "id": "73",
+            "idPergunta": "8",
+            "idCandidato": "3",
+            "resposta": "Sim"
+        },
+        {
+            "id": "74",
+            "idPergunta": "8",
+            "idCandidato": "4",
+            "resposta": "Sim"
+        },
+        {
+            "id": "75",
+            "idPergunta": "8",
+            "idCandidato": "5",
+            "resposta": "Sim"
+        },
+        {
+            "id": "76",
+            "idPergunta": "8",
+            "idCandidato": "6",
+            "resposta": "Não"
+        },
+        {
+            "id": "77",
+            "idPergunta": "8",
+            "idCandidato": "7",
+            "resposta": "Não"
+        },
+        {
+            "id": "78",
+            "idPergunta": "8",
+            "idCandidato": "8",
+            "resposta": "Não"
+        },
+        {
+            "id": "79",
+            "idPergunta": "8",
+            "idCandidato": "9",
+            "resposta": "Não"
+        },
+        {
+            "id": "80",
+            "idPergunta": "8",
+            "idCandidato": "10",
+            "resposta": "Não"
+        },
+        {
+            "id": "81",
+            "idPergunta": "9",
+            "idCandidato": "1",
+            "resposta": "Não"
+        },
+        {
+            "id": "82",
+            "idPergunta": "9",
+            "idCandidato": "2",
+            "resposta": "Não"
+        },
+        {
+            "id": "83",
+            "idPergunta": "9",
+            "idCandidato": "3",
+            "resposta": "Não"
+        },
+        {
+            "id": "84",
+            "idPergunta": "9",
+            "idCandidato": "4",
+            "resposta": "Não"
+        },
+        {
+            "id": "85",
+            "idPergunta": "9",
+            "idCandidato": "5",
+            "resposta": "Não"
+        },
+        {
+            "id": "86",
+            "idPergunta": "9",
+            "idCandidato": "6",
+            "resposta": "Sim"
+        },
+        {
+            "id": "87",
+            "idPergunta": "9",
+            "idCandidato": "7",
+            "resposta": "Sim"
+        },
+        {
+            "id": "88",
+            "idPergunta": "9",
+            "idCandidato": "8"
+        },
+        {
+            "id": "89",
+            "idPergunta": "9",
+            "idCandidato": "9",
+            "resposta": "Depende"
+        },
+        {
+            "id": "90",
+            "idPergunta": "9",
+            "idCandidato": "10",
+            "resposta": "Não"
+        },
+        {
+            "id": "91",
+            "idPergunta": "10",
+            "idCandidato": "1",
+            "resposta": "Não"
+        },
+        {
+            "id": "92",
+            "idPergunta": "10",
+            "idCandidato": "2",
+            "resposta": "Não"
+        },
+        {
+            "id": "93",
+            "idPergunta": "10",
+            "idCandidato": "3",
+            "resposta": "Não"
+        },
+        {
+            "id": "94",
+            "idPergunta": "10",
+            "idCandidato": "4",
+            "resposta": "Não"
+        },
+        {
+            "id": "95",
+            "idPergunta": "10",
+            "idCandidato": "5",
+            "resposta": "Depende"
+        },
+        {
+            "id": "96",
+            "idPergunta": "10",
+            "idCandidato": "6",
+            "resposta": "Sim"
+        },
+        {
+            "id": "97",
+            "idPergunta": "10",
+            "idCandidato": "7",
+            "resposta": "Sim"
+        },
+        {
+            "id": "98",
+            "idPergunta": "10",
+            "idCandidato": "8",
+            "resposta": "Sim"
+        },
+        {
+            "id": "99",
+            "idPergunta": "10",
+            "idCandidato": "9",
+            "resposta": "Sim"
+        },
+        {
+            "id": "100",
+            "idPergunta": "10",
+            "idCandidato": "10",
+            "resposta": "Sim"
+        },
+        {
+            "id": "101",
+            "idPergunta": "11",
+            "idCandidato": "1",
+            "resposta": "Sim"
+        },
+        {
+            "id": "102",
+            "idPergunta": "11",
+            "idCandidato": "2",
+            "resposta": "Sim"
+        },
+        {
+            "id": "103",
+            "idPergunta": "11",
+            "idCandidato": "3",
+            "resposta": "Sim"
+        },
+        {
+            "id": "104",
+            "idPergunta": "11",
+            "idCandidato": "4",
+            "resposta": "Sim"
+        },
+        {
+            "id": "105",
+            "idPergunta": "11",
+            "idCandidato": "5",
+            "resposta": "Depende"
+        },
+        {
+            "id": "106",
+            "idPergunta": "11",
+            "idCandidato": "6"
+        },
+        {
+            "id": "107",
+            "idPergunta": "11",
+            "idCandidato": "7",
+            "resposta": "Não"
+        },
+        {
+            "id": "108",
+            "idPergunta": "11",
+            "idCandidato": "8",
+            "resposta": "Depende"
+        },
+        {
+            "id": "109",
+            "idPergunta": "11",
+            "idCandidato": "9",
+            "resposta": "Não"
+        },
+        {
+            "id": "110",
+            "idPergunta": "11",
+            "idCandidato": "10",
+            "resposta": "Depende"
+        },
+        {
+            "id": "111",
+            "idPergunta": "12",
+            "idCandidato": "1",
+            "resposta": "Não"
+        },
+        {
+            "id": "112",
+            "idPergunta": "12",
+            "idCandidato": "2",
+            "resposta": "Não"
+        },
+        {
+            "id": "113",
+            "idPergunta": "12",
+            "idCandidato": "3",
+            "resposta": "Não"
+        },
+        {
+            "id": "114",
+            "idPergunta": "12",
+            "idCandidato": "4",
+            "resposta": "Não"
+        },
+        {
+            "id": "115",
+            "idPergunta": "12",
+            "idCandidato": "5",
+            "resposta": "Não"
+        },
+        {
+            "id": "116",
+            "idPergunta": "12",
+            "idCandidato": "6",
+            "resposta": "Depende"
+        },
+        {
+            "id": "117",
+            "idPergunta": "12",
+            "idCandidato": "7",
+            "resposta": "Sim"
+        },
+        {
+            "id": "118",
+            "idPergunta": "12",
+            "idCandidato": "8",
+            "resposta": "Sim"
+        },
+        {
+            "id": "119",
+            "idPergunta": "12",
+            "idCandidato": "9",
+            "resposta": "Sim"
+        },
+        {
+            "id": "120",
+            "idPergunta": "12",
+            "idCandidato": "10",
+            "resposta": "Sim"
+        },
+        {
+            "id": "121",
+            "idPergunta": "13",
+            "idCandidato": "1",
+            "resposta": "Sim"
+        },
+        {
+            "id": "122",
+            "idPergunta": "13",
+            "idCandidato": "2",
+            "resposta": "Sim"
+        },
+        {
+            "id": "123",
+            "idPergunta": "13",
+            "idCandidato": "3",
+            "resposta": "Sim"
+        },
+        {
+            "id": "124",
+            "idPergunta": "13",
+            "idCandidato": "4",
+            "resposta": "Depende"
+        },
+        {
+            "id": "125",
+            "idPergunta": "13",
+            "idCandidato": "5",
+            "resposta": "Sim"
+        },
+        {
+            "id": "126",
+            "idPergunta": "13",
+            "idCandidato": "6",
+            "resposta": "Não"
+        },
+        {
+            "id": "127",
+            "idPergunta": "13",
+            "idCandidato": "7",
+            "resposta": "Não"
+        },
+        {
+            "id": "128",
+            "idPergunta": "13",
+            "idCandidato": "8",
+            "resposta": "Depende"
+        },
+        {
+            "id": "129",
+            "idPergunta": "13",
+            "idCandidato": "9",
+            "resposta": "Não"
+        },
+        {
+            "id": "130",
+            "idPergunta": "13",
+            "idCandidato": "10",
+            "resposta": "Não"
+        },
+        {
+            "id": "131",
+            "idPergunta": "14",
+            "idCandidato": "1",
+            "resposta": "Sim"
+        },
+        {
+            "id": "132",
+            "idPergunta": "14",
+            "idCandidato": "2",
+            "resposta": "Sim"
+        },
+        {
+            "id": "133",
+            "idPergunta": "14",
+            "idCandidato": "3",
+            "resposta": "Sim"
+        },
+        {
+            "id": "134",
+            "idPergunta": "14",
+            "idCandidato": "4",
+            "resposta": "Sim"
+        },
+        {
+            "id": "135",
+            "idPergunta": "14",
+            "idCandidato": "5",
+            "resposta": "Sim"
+        },
+        {
+            "id": "136",
+            "idPergunta": "14",
+            "idCandidato": "6",
+            "resposta": "Depende"
+        },
+        {
+            "id": "137",
+            "idPergunta": "14",
+            "idCandidato": "7",
+            "resposta": "Sim"
+        },
+        {
+            "id": "138",
+            "idPergunta": "14",
+            "idCandidato": "8",
+            "resposta": "Depende"
+        },
+        {
+            "id": "139",
+            "idPergunta": "14",
+            "idCandidato": "9",
+            "resposta": "Depende"
+        },
+        {
+            "id": "140",
+            "idPergunta": "14",
+            "idCandidato": "10",
+            "resposta": "Não"
+        },
+        {
+            "id": "141",
+            "idPergunta": "15",
+            "idCandidato": "1",
+            "resposta": "Não"
+        },
+        {
+            "id": "142",
+            "idPergunta": "15",
+            "idCandidato": "2",
+            "resposta": "Não"
+        },
+        {
+            "id": "143",
+            "idPergunta": "15",
+            "idCandidato": "3"
+        },
+        {
+            "id": "144",
+            "idPergunta": "15",
+            "idCandidato": "4",
+            "resposta": "Não"
+        },
+        {
+            "id": "145",
+            "idPergunta": "15",
+            "idCandidato": "5",
+            "resposta": "Depende"
+        },
+        {
+            "id": "146",
+            "idPergunta": "15",
+            "idCandidato": "6",
+            "resposta": "Depende"
+        },
+        {
+            "id": "147",
+            "idPergunta": "15",
+            "idCandidato": "7",
+            "resposta": "Não"
+        },
+        {
+            "id": "148",
+            "idPergunta": "15",
+            "idCandidato": "8",
+            "resposta": "Sim"
+        },
+        {
+            "id": "149",
+            "idPergunta": "15",
+            "idCandidato": "9",
+            "resposta": "Sim"
+        },
+        {
+            "id": "150",
+            "idPergunta": "15",
+            "idCandidato": "10",
+            "resposta": "Sim"
+        },
+        {
+            "id": "151",
+            "idPergunta": "16",
+            "idCandidato": "1",
+            "resposta": "Sim"
+        },
+        {
+            "id": "152",
+            "idPergunta": "16",
+            "idCandidato": "2",
+            "resposta": "Não"
+        },
+        {
+            "id": "153",
+            "idPergunta": "16",
+            "idCandidato": "3",
+            "resposta": "Sim"
+        },
+        {
+            "id": "154",
+            "idPergunta": "16",
+            "idCandidato": "4",
+            "resposta": "Sim"
+        },
+        {
+            "id": "155",
+            "idPergunta": "16",
+            "idCandidato": "5",
+            "resposta": "Sim"
+        },
+        {
+            "id": "156",
+            "idPergunta": "16",
+            "idCandidato": "6",
+            "resposta": "Não"
+        },
+        {
+            "id": "157",
+            "idPergunta": "16",
+            "idCandidato": "7",
+            "resposta": "Sim"
+        },
+        {
+            "id": "158",
+            "idPergunta": "16",
+            "idCandidato": "8",
+            "resposta": "Depende"
+        },
+        {
+            "id": "159",
+            "idPergunta": "16",
+            "idCandidato": "9",
+            "resposta": "Não"
+        },
+        {
+            "id": "160",
+            "idPergunta": "16",
+            "idCandidato": "10",
+            "resposta": "Não"
+        },
+        {
+            "id": "161",
+            "idPergunta": "17",
+            "idCandidato": "1",
+            "resposta": "Não"
+        },
+        {
+            "id": "162",
+            "idPergunta": "17",
+            "idCandidato": "2",
+            "resposta": "Não"
+        },
+        {
+            "id": "163",
+            "idPergunta": "17",
+            "idCandidato": "3",
+            "resposta": "Não"
+        },
+        {
+            "id": "164",
+            "idPergunta": "17",
+            "idCandidato": "4",
+            "resposta": "Não"
+        },
+        {
+            "id": "165",
+            "idPergunta": "17",
+            "idCandidato": "5",
+            "resposta": "Sim"
+        },
+        {
+            "id": "166",
+            "idPergunta": "17",
+            "idCandidato": "6",
+            "resposta": "Sim"
+        },
+        {
+            "id": "167",
+            "idPergunta": "17",
+            "idCandidato": "7",
+            "resposta": "Sim"
+        },
+        {
+            "id": "168",
+            "idPergunta": "17",
+            "idCandidato": "8",
+            "resposta": "Sim"
+        },
+        {
+            "id": "169",
+            "idPergunta": "17",
+            "idCandidato": "9",
+            "resposta": "Sim"
+        },
+        {
+            "id": "170",
+            "idPergunta": "17",
+            "idCandidato": "10",
+            "resposta": "Sim"
+        },
+        {
+            "id": "171",
+            "idPergunta": "18",
+            "idCandidato": "1",
+            "resposta": "Não"
+        },
+        {
+            "id": "172",
+            "idPergunta": "18",
+            "idCandidato": "2",
+            "resposta": "Não"
+        },
+        {
+            "id": "173",
+            "idPergunta": "18",
+            "idCandidato": "3",
+            "resposta": "Não"
+        },
+        {
+            "id": "174",
+            "idPergunta": "18",
+            "idCandidato": "4",
+            "resposta": "Não"
+        },
+        {
+            "id": "175",
+            "idPergunta": "18",
+            "idCandidato": "5",
+            "resposta": "Não"
+        },
+        {
+            "id": "176",
+            "idPergunta": "18",
+            "idCandidato": "6",
+            "resposta": "Sim"
+        },
+        {
+            "id": "177",
+            "idPergunta": "18",
+            "idCandidato": "7",
+            "resposta": "Não"
+        },
+        {
+            "id": "178",
+            "idPergunta": "18",
+            "idCandidato": "8",
+            "resposta": "Sim"
+        },
+        {
+            "id": "179",
+            "idPergunta": "18",
+            "idCandidato": "9",
+            "resposta": "Sim"
+        },
+        {
+            "id": "180",
+            "idPergunta": "18",
+            "idCandidato": "10",
+            "resposta": "Sim"
+        },
+        {
+            "id": "181",
+            "idPergunta": "19",
+            "idCandidato": "1",
+            "resposta": "Não"
+        },
+        {
+            "id": "182",
+            "idPergunta": "19",
+            "idCandidato": "2",
+            "resposta": "Não"
+        },
+        {
+            "id": "183",
+            "idPergunta": "19",
+            "idCandidato": "3",
+            "resposta": "Não"
+        },
+        {
+            "id": "184",
+            "idPergunta": "19",
+            "idCandidato": "4",
+            "resposta": "Não"
+        },
+        {
+            "id": "185",
+            "idPergunta": "19",
+            "idCandidato": "5",
+            "resposta": "Depende"
+        },
+        {
+            "id": "186",
+            "idPergunta": "19",
+            "idCandidato": "6",
+            "resposta": "Sim"
+        },
+        {
+            "id": "187",
+            "idPergunta": "19",
+            "idCandidato": "7",
+            "resposta": "Não"
+        },
+        {
+            "id": "188",
+            "idPergunta": "19",
+            "idCandidato": "8",
+            "resposta": "Sim"
+        },
+        {
+            "id": "189",
+            "idPergunta": "19",
+            "idCandidato": "9",
+            "resposta": "Depende"
+        },
+        {
+            "id": "190",
+            "idPergunta": "19",
+            "idCandidato": "10",
+            "resposta": "Sim"
+        },
+        {
+            "id": "191",
+            "idPergunta": "20",
+            "idCandidato": "1",
+            "resposta": "Sim"
+        },
+        {
+            "id": "192",
+            "idPergunta": "20",
+            "idCandidato": "2",
+            "resposta": "Sim"
+        },
+        {
+            "id": "193",
+            "idPergunta": "20",
+            "idCandidato": "3",
+            "resposta": "Sim"
+        },
+        {
+            "id": "194",
+            "idPergunta": "20",
+            "idCandidato": "4",
+            "resposta": "Sim"
+        },
+        {
+            "id": "195",
+            "idPergunta": "20",
+            "idCandidato": "5",
+            "resposta": "Sim"
+        },
+        {
+            "id": "196",
+            "idPergunta": "20",
+            "idCandidato": "6",
+            "resposta": "Depende"
+        },
+        {
+            "id": "197",
+            "idPergunta": "20",
+            "idCandidato": "7",
+            "resposta": "Não"
+        },
+        {
+            "id": "198",
+            "idPergunta": "20",
+            "idCandidato": "8"
+        },
+        {
+            "id": "199",
+            "idPergunta": "20",
+            "idCandidato": "9",
+            "resposta": "Sim"
+        },
+        {
+            "id": "200",
+            "idPergunta": "20",
+            "idCandidato": "10",
+            "resposta": "Não"
+        },
+        {
+            "id": "201",
+            "idPergunta": "21",
+            "idCandidato": "1",
+            "resposta": "Sim"
+        },
+        {
+            "id": "202",
+            "idPergunta": "21",
+            "idCandidato": "2",
+            "resposta": "Sim"
+        },
+        {
+            "id": "203",
+            "idPergunta": "21",
+            "idCandidato": "3",
+            "resposta": "Sim"
+        },
+        {
+            "id": "204",
+            "idPergunta": "21",
+            "idCandidato": "4",
+            "resposta": "Sim"
+        },
+        {
+            "id": "205",
+            "idPergunta": "21",
+            "idCandidato": "5",
+            "resposta": "Sim"
+        },
+        {
+            "id": "206",
+            "idPergunta": "21",
+            "idCandidato": "6",
+            "resposta": "Não"
+        },
+        {
+            "id": "207",
+            "idPergunta": "21",
+            "idCandidato": "7",
+            "resposta": "Não"
+        },
+        {
+            "id": "208",
+            "idPergunta": "21",
+            "idCandidato": "8",
+            "resposta": "Não"
+        },
+        {
+            "id": "209",
+            "idPergunta": "21",
+            "idCandidato": "9",
+            "resposta": "Não"
+        },
+        {
+            "id": "210",
+            "idPergunta": "21",
+            "idCandidato": "10",
+            "resposta": "Não"
+        },
+        {
+            "id": "211",
+            "idPergunta": "22",
+            "idCandidato": "1",
+            "resposta": "Sim"
+        },
+        {
+            "id": "212",
+            "idPergunta": "22",
+            "idCandidato": "2",
+            "resposta": "Sim"
+        },
+        {
+            "id": "213",
+            "idPergunta": "22",
+            "idCandidato": "3",
+            "resposta": "Sim"
+        },
+        {
+            "id": "214",
+            "idPergunta": "22",
+            "idCandidato": "4",
+            "resposta": "Sim"
+        },
+        {
+            "id": "215",
+            "idPergunta": "22",
+            "idCandidato": "5",
+            "resposta": "Sim"
+        },
+        {
+            "id": "216",
+            "idPergunta": "22",
+            "idCandidato": "6",
+            "resposta": "Sim"
+        },
+        {
+            "id": "217",
+            "idPergunta": "22",
+            "idCandidato": "7"
+        },
+        {
+            "id": "218",
+            "idPergunta": "22",
+            "idCandidato": "8"
+        },
+        {
+            "id": "219",
+            "idPergunta": "22",
+            "idCandidato": "9",
+            "resposta": "Não"
+        },
+        {
+            "id": "220",
+            "idPergunta": "22",
+            "idCandidato": "10",
+            "resposta": "Não"
+        },
+        {
+            "id": "221",
+            "idPergunta": "23",
+            "idCandidato": "1",
+            "resposta": "Não"
+        },
+        {
+            "id": "222",
+            "idPergunta": "23",
+            "idCandidato": "2",
+            "resposta": "Não"
+        },
+        {
+            "id": "223",
+            "idPergunta": "23",
+            "idCandidato": "3",
+            "resposta": "Não"
+        },
+        {
+            "id": "224",
+            "idPergunta": "23",
+            "idCandidato": "4",
+            "resposta": "Não"
+        },
+        {
+            "id": "225",
+            "idPergunta": "23",
+            "idCandidato": "5",
+            "resposta": "Não"
+        },
+        {
+            "id": "226",
+            "idPergunta": "23",
+            "idCandidato": "6",
+            "resposta": "Sim"
+        },
+        {
+            "id": "227",
+            "idPergunta": "23",
+            "idCandidato": "7",
+            "resposta": "Sim"
+        },
+        {
+            "id": "228",
+            "idPergunta": "23",
+            "idCandidato": "8",
+            "resposta": "Sim"
+        },
+        {
+            "id": "229",
+            "idPergunta": "23",
+            "idCandidato": "9"
+        },
+        {
+            "id": "230",
+            "idPergunta": "23",
+            "idCandidato": "10",
+            "resposta": "Sim"
+        }
+    ]
 }
