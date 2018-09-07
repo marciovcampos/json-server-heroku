@@ -282,1381 +282,1611 @@
             "id": "1",
             "idPergunta": "1",
             "idCandidato": "1",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "2",
             "idPergunta": "1",
             "idCandidato": "2",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "3",
             "idPergunta": "1",
             "idCandidato": "3",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "4",
             "idPergunta": "1",
             "idCandidato": "4",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "5",
             "idPergunta": "1",
             "idCandidato": "5",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "6",
             "idPergunta": "1",
             "idCandidato": "6",
-            "resposta": "2"
+            "resposta": "2",
+            "respostaDescritiva": "Depende"
         },
         {
             "id": "7",
             "idPergunta": "1",
             "idCandidato": "7",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "8",
             "idPergunta": "1",
             "idCandidato": "8",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "9",
             "idPergunta": "1",
             "idCandidato": "9",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "10",
             "idPergunta": "1",
             "idCandidato": "10",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "11",
             "idPergunta": "2",
             "idCandidato": "1",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "12",
             "idPergunta": "2",
             "idCandidato": "2",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "13",
             "idPergunta": "2",
             "idCandidato": "3",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "14",
             "idPergunta": "2",
             "idCandidato": "4",
-            "resposta": "2"
+            "resposta": "2",
+            "respostaDescritiva": "Depende"
         },
         {
             "id": "15",
             "idPergunta": "2",
             "idCandidato": "5",
-            "resposta": "2"
+            "resposta": "2",
+            "respostaDescritiva": "Depende"
         },
         {
             "id": "16",
             "idPergunta": "2",
             "idCandidato": "6",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "17",
             "idPergunta": "2",
             "idCandidato": "7",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "18",
             "idPergunta": "2",
             "idCandidato": "8",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "19",
             "idPergunta": "2",
             "idCandidato": "9",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "20",
             "idPergunta": "2",
             "idCandidato": "10",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "21",
             "idPergunta": "3",
             "idCandidato": "1",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "22",
             "idPergunta": "3",
             "idCandidato": "2",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "23",
             "idPergunta": "3",
             "idCandidato": "3",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "24",
             "idPergunta": "3",
             "idCandidato": "4",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "25",
             "idPergunta": "3",
             "idCandidato": "5",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "26",
             "idPergunta": "3",
             "idCandidato": "6",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "27",
             "idPergunta": "3",
             "idCandidato": "7",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "28",
             "idPergunta": "3",
             "idCandidato": "8",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "29",
             "idPergunta": "3",
             "idCandidato": "9",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "30",
             "idPergunta": "3",
             "idCandidato": "10",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "31",
             "idPergunta": "4",
             "idCandidato": "1",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "32",
             "idPergunta": "4",
             "idCandidato": "2",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "33",
             "idPergunta": "4",
             "idCandidato": "3",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "34",
             "idPergunta": "4",
             "idCandidato": "4",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "35",
             "idPergunta": "4",
             "idCandidato": "5",
-            "resposta": "2"
+            "resposta": "2",
+            "respostaDescritiva": "Depende"
         },
         {
             "id": "36",
             "idPergunta": "4",
             "idCandidato": "6",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "37",
             "idPergunta": "4",
             "idCandidato": "7",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "38",
             "idPergunta": "4",
             "idCandidato": "8",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "39",
             "idPergunta": "4",
             "idCandidato": "9",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "40",
             "idPergunta": "4",
             "idCandidato": "10",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "41",
             "idPergunta": "5",
             "idCandidato": "1",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "42",
             "idPergunta": "5",
             "idCandidato": "2",
-            "resposta": "2"
+            "resposta": "2",
+            "respostaDescritiva": "Depende"
         },
         {
             "id": "43",
             "idPergunta": "5",
             "idCandidato": "3",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "44",
             "idPergunta": "5",
             "idCandidato": "4",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "45",
             "idPergunta": "5",
             "idCandidato": "5",
-            "resposta": "2"
+            "resposta": "2",
+            "respostaDescritiva": "Depende"
         },
         {
             "id": "46",
             "idPergunta": "5",
             "idCandidato": "6",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "47",
             "idPergunta": "5",
             "idCandidato": "7",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "48",
             "idPergunta": "5",
             "idCandidato": "8",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "49",
             "idPergunta": "5",
             "idCandidato": "9",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "50",
             "idPergunta": "5",
             "idCandidato": "10",
-            "resposta": "2"
+            "resposta": "2",
+            "respostaDescritiva": "Depende"
         },
         {
             "id": "51",
             "idPergunta": "6",
             "idCandidato": "1",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "52",
             "idPergunta": "6",
             "idCandidato": "2",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "53",
             "idPergunta": "6",
             "idCandidato": "3",
-            "resposta": "0"
+            "resposta": "2",
+            "respostaDescritiva": "Sem Resposta"
         },
         {
             "id": "54",
             "idPergunta": "6",
             "idCandidato": "4",
-            "resposta": "2"
+            "resposta": "2",
+            "respostaDescritiva": "Depende"
         },
         {
             "id": "55",
             "idPergunta": "6",
             "idCandidato": "5",
-            "resposta": "2"
+            "resposta": "2",
+            "respostaDescritiva": "Depende"
         },
         {
             "id": "56",
             "idPergunta": "6",
             "idCandidato": "6",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "57",
             "idPergunta": "6",
             "idCandidato": "7",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "58",
             "idPergunta": "6",
             "idCandidato": "8",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "59",
             "idPergunta": "6",
             "idCandidato": "9",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "60",
             "idPergunta": "6",
             "idCandidato": "10",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "61",
             "idPergunta": "7",
             "idCandidato": "1",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "62",
             "idPergunta": "7",
             "idCandidato": "2",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "63",
             "idPergunta": "7",
             "idCandidato": "3",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "64",
             "idPergunta": "7",
             "idCandidato": "4",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "65",
             "idPergunta": "7",
             "idCandidato": "5",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "66",
             "idPergunta": "7",
             "idCandidato": "6",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "67",
             "idPergunta": "7",
             "idCandidato": "7",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "68",
             "idPergunta": "7",
             "idCandidato": "8",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "69",
             "idPergunta": "7",
             "idCandidato": "9",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "70",
             "idPergunta": "7",
             "idCandidato": "10",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "71",
             "idPergunta": "8",
             "idCandidato": "1",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "72",
             "idPergunta": "8",
             "idCandidato": "2",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "73",
             "idPergunta": "8",
             "idCandidato": "3",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "74",
             "idPergunta": "8",
             "idCandidato": "4",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "75",
             "idPergunta": "8",
             "idCandidato": "5",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "76",
             "idPergunta": "8",
             "idCandidato": "6",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "77",
             "idPergunta": "8",
             "idCandidato": "7",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "78",
             "idPergunta": "8",
             "idCandidato": "8",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "79",
             "idPergunta": "8",
             "idCandidato": "9",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "80",
             "idPergunta": "8",
             "idCandidato": "10",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "81",
             "idPergunta": "9",
             "idCandidato": "1",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "82",
             "idPergunta": "9",
             "idCandidato": "2",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "83",
             "idPergunta": "9",
             "idCandidato": "3",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "84",
             "idPergunta": "9",
             "idCandidato": "4",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "85",
             "idPergunta": "9",
             "idCandidato": "5",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "86",
             "idPergunta": "9",
             "idCandidato": "6",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "87",
             "idPergunta": "9",
             "idCandidato": "7",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "88",
             "idPergunta": "9",
             "idCandidato": "8",
-            "resposta": "0"
+            "resposta": "2",
+            "respostaDescritiva": "Sem Resposta"
         },
         {
             "id": "89",
             "idPergunta": "9",
             "idCandidato": "9",
-            "resposta": "2"
+            "resposta": "2",
+            "respostaDescritiva": "Depende"
         },
         {
             "id": "90",
             "idPergunta": "9",
             "idCandidato": "10",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "91",
             "idPergunta": "10",
             "idCandidato": "1",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "92",
             "idPergunta": "10",
             "idCandidato": "2",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "93",
             "idPergunta": "10",
             "idCandidato": "3",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "94",
             "idPergunta": "10",
             "idCandidato": "4",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "95",
             "idPergunta": "10",
             "idCandidato": "5",
-            "resposta": "2"
+            "resposta": "2",
+            "respostaDescritiva": "Depende"
         },
         {
             "id": "96",
             "idPergunta": "10",
             "idCandidato": "6",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "97",
             "idPergunta": "10",
             "idCandidato": "7",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "98",
             "idPergunta": "10",
             "idCandidato": "8",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "99",
             "idPergunta": "10",
             "idCandidato": "9",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "100",
             "idPergunta": "10",
             "idCandidato": "10",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "101",
             "idPergunta": "11",
             "idCandidato": "1",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "102",
             "idPergunta": "11",
             "idCandidato": "2",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "103",
             "idPergunta": "11",
             "idCandidato": "3",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "104",
             "idPergunta": "11",
             "idCandidato": "4",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "105",
             "idPergunta": "11",
             "idCandidato": "5",
-            "resposta": "2"
+            "resposta": "2",
+            "respostaDescritiva": "Depende"
         },
         {
             "id": "106",
             "idPergunta": "11",
             "idCandidato": "6",
-            "resposta": "0"
+            "resposta": "2",
+            "respostaDescritiva": "Sem Resposta"
         },
         {
             "id": "107",
             "idPergunta": "11",
             "idCandidato": "7",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "108",
             "idPergunta": "11",
             "idCandidato": "8",
-            "resposta": "2"
+            "resposta": "2",
+            "respostaDescritiva": "Depende"
         },
         {
             "id": "109",
             "idPergunta": "11",
             "idCandidato": "9",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "110",
             "idPergunta": "11",
             "idCandidato": "10",
-            "resposta": "2"
+            "resposta": "2",
+            "respostaDescritiva": "Depende"
         },
         {
             "id": "111",
             "idPergunta": "12",
             "idCandidato": "1",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "112",
             "idPergunta": "12",
             "idCandidato": "2",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "113",
             "idPergunta": "12",
             "idCandidato": "3",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "114",
             "idPergunta": "12",
             "idCandidato": "4",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "115",
             "idPergunta": "12",
             "idCandidato": "5",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "116",
             "idPergunta": "12",
             "idCandidato": "6",
-            "resposta": "2"
+            "resposta": "2",
+            "respostaDescritiva": "Depende"
         },
         {
             "id": "117",
             "idPergunta": "12",
             "idCandidato": "7",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "118",
             "idPergunta": "12",
             "idCandidato": "8",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "119",
             "idPergunta": "12",
             "idCandidato": "9",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "120",
             "idPergunta": "12",
             "idCandidato": "10",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "121",
             "idPergunta": "13",
             "idCandidato": "1",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "122",
             "idPergunta": "13",
             "idCandidato": "2",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "123",
             "idPergunta": "13",
             "idCandidato": "3",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "124",
             "idPergunta": "13",
             "idCandidato": "4",
-            "resposta": "2"
+            "resposta": "2",
+            "respostaDescritiva": "Depende"
         },
         {
             "id": "125",
             "idPergunta": "13",
             "idCandidato": "5",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "126",
             "idPergunta": "13",
             "idCandidato": "6",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "127",
             "idPergunta": "13",
             "idCandidato": "7",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "128",
             "idPergunta": "13",
             "idCandidato": "8",
-            "resposta": "2"
+            "resposta": "2",
+            "respostaDescritiva": "Depende"
         },
         {
             "id": "129",
             "idPergunta": "13",
             "idCandidato": "9",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "130",
             "idPergunta": "13",
             "idCandidato": "10",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "131",
             "idPergunta": "14",
             "idCandidato": "1",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "132",
             "idPergunta": "14",
             "idCandidato": "2",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "133",
             "idPergunta": "14",
             "idCandidato": "3",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "134",
             "idPergunta": "14",
             "idCandidato": "4",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "135",
             "idPergunta": "14",
             "idCandidato": "5",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "136",
             "idPergunta": "14",
             "idCandidato": "6",
-            "resposta": "2"
+            "resposta": "2",
+            "respostaDescritiva": "Depende"
         },
         {
             "id": "137",
             "idPergunta": "14",
             "idCandidato": "7",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "138",
             "idPergunta": "14",
             "idCandidato": "8",
-            "resposta": "2"
+            "resposta": "2",
+            "respostaDescritiva": "Depende"
         },
         {
             "id": "139",
             "idPergunta": "14",
             "idCandidato": "9",
-            "resposta": "2"
+            "resposta": "2",
+            "respostaDescritiva": "Depende"
         },
         {
             "id": "140",
             "idPergunta": "14",
             "idCandidato": "10",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "141",
             "idPergunta": "15",
             "idCandidato": "1",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "142",
             "idPergunta": "15",
             "idCandidato": "2",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "143",
             "idPergunta": "15",
             "idCandidato": "3",
-            "resposta": "0"
+            "resposta": "2",
+            "respostaDescritiva": "Sem Resposta"
         },
         {
             "id": "144",
             "idPergunta": "15",
             "idCandidato": "4",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "145",
             "idPergunta": "15",
             "idCandidato": "5",
-            "resposta": "2"
+            "resposta": "2",
+            "respostaDescritiva": "Depende"
         },
         {
             "id": "146",
             "idPergunta": "15",
             "idCandidato": "6",
-            "resposta": "2"
+            "resposta": "2",
+            "respostaDescritiva": "Depende"
         },
         {
             "id": "147",
             "idPergunta": "15",
             "idCandidato": "7",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "148",
             "idPergunta": "15",
             "idCandidato": "8",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "149",
             "idPergunta": "15",
             "idCandidato": "9",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "150",
             "idPergunta": "15",
             "idCandidato": "10",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "151",
             "idPergunta": "16",
             "idCandidato": "1",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "152",
             "idPergunta": "16",
             "idCandidato": "2",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "153",
             "idPergunta": "16",
             "idCandidato": "3",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "154",
             "idPergunta": "16",
             "idCandidato": "4",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "155",
             "idPergunta": "16",
             "idCandidato": "5",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "156",
             "idPergunta": "16",
             "idCandidato": "6",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "157",
             "idPergunta": "16",
             "idCandidato": "7",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "158",
             "idPergunta": "16",
             "idCandidato": "8",
-            "resposta": "2"
+            "resposta": "2",
+            "respostaDescritiva": "Depende"
         },
         {
             "id": "159",
             "idPergunta": "16",
             "idCandidato": "9",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "160",
             "idPergunta": "16",
             "idCandidato": "10",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "161",
             "idPergunta": "17",
             "idCandidato": "1",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "162",
             "idPergunta": "17",
             "idCandidato": "2",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "163",
             "idPergunta": "17",
             "idCandidato": "3",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "164",
             "idPergunta": "17",
             "idCandidato": "4",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "165",
             "idPergunta": "17",
             "idCandidato": "5",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "166",
             "idPergunta": "17",
             "idCandidato": "6",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "167",
             "idPergunta": "17",
             "idCandidato": "7",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "168",
             "idPergunta": "17",
             "idCandidato": "8",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "169",
             "idPergunta": "17",
             "idCandidato": "9",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "170",
             "idPergunta": "17",
             "idCandidato": "10",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "171",
             "idPergunta": "18",
             "idCandidato": "1",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "172",
             "idPergunta": "18",
             "idCandidato": "2",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "173",
             "idPergunta": "18",
             "idCandidato": "3",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "174",
             "idPergunta": "18",
             "idCandidato": "4",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "175",
             "idPergunta": "18",
             "idCandidato": "5",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "176",
             "idPergunta": "18",
             "idCandidato": "6",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "177",
             "idPergunta": "18",
             "idCandidato": "7",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "178",
             "idPergunta": "18",
             "idCandidato": "8",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "179",
             "idPergunta": "18",
             "idCandidato": "9",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "180",
             "idPergunta": "18",
             "idCandidato": "10",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "181",
             "idPergunta": "19",
             "idCandidato": "1",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "182",
             "idPergunta": "19",
             "idCandidato": "2",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "183",
             "idPergunta": "19",
             "idCandidato": "3",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "184",
             "idPergunta": "19",
             "idCandidato": "4",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "185",
             "idPergunta": "19",
             "idCandidato": "5",
-            "resposta": "2"
+            "resposta": "2",
+            "respostaDescritiva": "Depende"
         },
         {
             "id": "186",
             "idPergunta": "19",
             "idCandidato": "6",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "187",
             "idPergunta": "19",
             "idCandidato": "7",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "188",
             "idPergunta": "19",
             "idCandidato": "8",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "189",
             "idPergunta": "19",
             "idCandidato": "9",
-            "resposta": "2"
+            "resposta": "2",
+            "respostaDescritiva": "Depende"
         },
         {
             "id": "190",
             "idPergunta": "19",
             "idCandidato": "10",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "191",
             "idPergunta": "20",
             "idCandidato": "1",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "192",
             "idPergunta": "20",
             "idCandidato": "2",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "193",
             "idPergunta": "20",
             "idCandidato": "3",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "194",
             "idPergunta": "20",
             "idCandidato": "4",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "195",
             "idPergunta": "20",
             "idCandidato": "5",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "196",
             "idPergunta": "20",
             "idCandidato": "6",
-            "resposta": "2"
+            "resposta": "2",
+            "respostaDescritiva": "Depende"
         },
         {
             "id": "197",
             "idPergunta": "20",
             "idCandidato": "7",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "198",
             "idPergunta": "20",
             "idCandidato": "8",
-            "resposta": "0"
+            "resposta": "2",
+            "respostaDescritiva": "Sem Resposta"
         },
         {
             "id": "199",
             "idPergunta": "20",
             "idCandidato": "9",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "200",
             "idPergunta": "20",
             "idCandidato": "10",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "201",
             "idPergunta": "21",
             "idCandidato": "1",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "202",
             "idPergunta": "21",
             "idCandidato": "2",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "203",
             "idPergunta": "21",
             "idCandidato": "3",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "204",
             "idPergunta": "21",
             "idCandidato": "4",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "205",
             "idPergunta": "21",
             "idCandidato": "5",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "206",
             "idPergunta": "21",
             "idCandidato": "6",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "207",
             "idPergunta": "21",
             "idCandidato": "7",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "208",
             "idPergunta": "21",
             "idCandidato": "8",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "209",
             "idPergunta": "21",
             "idCandidato": "9",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "210",
             "idPergunta": "21",
             "idCandidato": "10",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "211",
             "idPergunta": "22",
             "idCandidato": "1",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "212",
             "idPergunta": "22",
             "idCandidato": "2",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "213",
             "idPergunta": "22",
             "idCandidato": "3",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "214",
             "idPergunta": "22",
             "idCandidato": "4",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "215",
             "idPergunta": "22",
             "idCandidato": "5",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "216",
             "idPergunta": "22",
             "idCandidato": "6",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "217",
             "idPergunta": "22",
             "idCandidato": "7",
-            "resposta": "0"
+            "resposta": "2",
+            "respostaDescritiva": "Sem Resposta"
         },
         {
             "id": "218",
             "idPergunta": "22",
             "idCandidato": "8",
-            "resposta": "0"
+            "resposta": "2",
+            "respostaDescritiva": "Sem Resposta"
         },
         {
             "id": "219",
             "idPergunta": "22",
             "idCandidato": "9",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "220",
             "idPergunta": "22",
             "idCandidato": "10",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "221",
             "idPergunta": "23",
             "idCandidato": "1",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "222",
             "idPergunta": "23",
             "idCandidato": "2",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "223",
             "idPergunta": "23",
             "idCandidato": "3",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "224",
             "idPergunta": "23",
             "idCandidato": "4",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "225",
             "idPergunta": "23",
             "idCandidato": "5",
-            "resposta": "1"
+            "resposta": "1",
+            "respostaDescritiva": "Não"
         },
         {
             "id": "226",
             "idPergunta": "23",
             "idCandidato": "6",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "227",
             "idPergunta": "23",
             "idCandidato": "7",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "228",
             "idPergunta": "23",
             "idCandidato": "8",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         },
         {
             "id": "229",
             "idPergunta": "23",
             "idCandidato": "9",
-            "resposta": "0"
+            "resposta": "2",
+            "respostaDescritiva": "Sem Resposta"
         },
         {
             "id": "230",
             "idPergunta": "23",
             "idCandidato": "10",
-            "resposta": "3"
+            "resposta": "3",
+            "respostaDescritiva": "Sim"
         }
     ]
 }
